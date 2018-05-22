@@ -33,3 +33,9 @@ p{
 .white{
 	background-color: white;
 }
+.section5{
+	background-color:black;
+	color:white;
+	padding:2%; 
+	margin:0;
+}
